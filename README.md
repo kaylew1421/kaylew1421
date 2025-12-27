@@ -54,5 +54,5 @@ I enjoy turning complex workflows into simple, reliable interfaces — especiall
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kayla-lewis-667677214/) 
 💻 Check out my pinned projects below
